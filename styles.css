@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --colorstatus: ##e7c9fd;
+}
+.bord{
+    border: 1px solid black;
+}
+
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    border-radius: 0;
+    
+    margin-bottom: 1rem;
+    
+
+}
+.card-img-top{
+   
+  
+    
+
+}
+.card-body-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.status{
+    margin: 1rem;
+
+    padding: 0.5rem;
+    background-color: #e7c9fd;
+    display: inline-block !important;
+}
