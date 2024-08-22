@@ -22,12 +22,7 @@ body{
     
 
 }
-.card-img-top{
-   
-  
-    
 
-}
 .card-body-info{
     display: flex;
     flex-direction: row;
@@ -40,4 +35,9 @@ body{
     padding: 0.5rem;
     background-color: #e7c9fd;
     display: inline-block !important;
+}
+
+.modal-body{
+    height: 250px;
+    border-radius: 0;
 }
