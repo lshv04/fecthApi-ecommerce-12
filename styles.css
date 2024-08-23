@@ -19,10 +19,16 @@ body{
     border-radius: 0;
     
     margin-bottom: 1rem;
+    display: flex;
+    justify-content: space-between !important;
     
 
 }
-
+.card-body{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
 .card-body-info{
     display: flex;
     flex-direction: row;
@@ -36,8 +42,11 @@ body{
     background-color: #e7c9fd;
     display: inline-block !important;
 }
-
-.modal-body{
-    height: 250px;
-    border-radius: 0;
+.bi-star-fill{
+    
+    color: gold;
 }
+.btn-primary{
+    width: 100%;
+}
+
