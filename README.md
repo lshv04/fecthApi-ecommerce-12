@@ -18,8 +18,9 @@ Utilizei diferentes end-points para tornar o produto final mais dinâmico e agra
 **Bootstrap**: Para criação de grids e componentes.      
 **Funções**: Criação de funções de cores e fontes para padronização e melhor manutenção do código.    
 **Classes padronizadas**: Criação de classes reutilizáveis de botões, links e efeitos de hover para melhor manutenção e reutilização.    
-**Media Query** : Criado múltiplos níveis para responsividade perfeita em múltiplas telas. 
-**Javascript**  : Consumir o conteúdo da API, adicionar dinamicamente cards de produtos e seus respectivos end-points.  
+**Media Query**: Criado múltiplos níveis para responsividade perfeita em múltiplas telas.  
+**Javascript**: Consumir o conteúdo da API, adicionar dinamicamente cards de produtos e seus respectivos end-points.
+
  
 
 
