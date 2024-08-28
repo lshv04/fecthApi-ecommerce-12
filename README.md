@@ -21,7 +21,7 @@ Utilizei diferentes end-points para tornar o produto final mais dinâmico e agra
 **Media Query** : Criado múltiplos níveis para responsividade perfeita em múltiplas telas. 
 **Javascript**  : Consumir o conteúdo da API, adicionar dinamicamente cards de produtos e seus respectivos end-points.   
 
-
+  
 Criei uma Navtab para ter um menu de acordo com a categoria do produto, que é adicionada dinamicamente.
   ![image](https://github.com/user-attachments/assets/c95b443d-5f66-4ede-b4e5-3e780e37f0b9)  
 Com exceção do botão "More", todas as informações do card são incluídas dinamicamente com end-points da API.
